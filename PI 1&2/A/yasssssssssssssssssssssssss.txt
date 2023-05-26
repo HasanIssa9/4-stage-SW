@@ -1,0 +1,42 @@
+<html>
+<head>
+<script>
+var ow = "C:\Users/lab10/Desktop/mmii.html"
+var nw
+function op()
+{
+nw=window.open()
+window.open(ow)
+}
+function pr()
+{
+window.print()
+}
+function wr()
+{
+nw.document.write("<html><body bgcolor=\"cyan\"</body></html>")
+document.close(nw)
+
+}
+function cl()
+{
+window.close()
+document.close(nw)
+nw.document.close()
+}
+function ref()
+{
+location.reload(true)
+}
+
+</script>
+</head></head>
+<body>
+<input type="button" value="print" onclick="pr()">
+<input type="button" value="refresh" onclick="ref()">
+<input type="button" value="open" onclick="op()">
+<input type="button" value="write" onclick="wr()">
+<input type="button" value="close" onclick="cl()">
+<input type="text">
+</body>
+</html>

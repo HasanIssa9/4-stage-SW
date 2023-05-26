@@ -1,0 +1,10 @@
+C:\Users\Prolog lab\Desktop\Euler\Euler\bin\Debug\Euler.exe
+C:\Users\Prolog lab\Desktop\Euler\Euler\bin\Debug\Euler.pdb
+C:\Users\Prolog lab\Desktop\Euler\Euler\bin\Debug\Euler.xml
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\Euler.Form1.resources
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\Euler.Resources.resources
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\Euler.vbproj.GenerateResource.Cache
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\Euler.exe
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\Euler.xml
+C:\Users\Prolog lab\Desktop\Euler\Euler\obj\Debug\Euler.pdb

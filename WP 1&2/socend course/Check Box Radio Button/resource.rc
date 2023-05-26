@@ -1,0 +1,28 @@
+#include <windows.h>
+#include "header.h"
+
+Mymenu MENU
+{
+    POPUP "&Dialog" {
+        MENUITEM "&Dialog\tF2", IDM_DIALOG
+        MENUITEM "&Exit\tF3", IDM_EXIT
+    }
+    MENUITEM "&Help", IDM_HELP }
+Mymenu ACCELERATORS
+{
+    VK_F2, IDM_DIALOG, VIRTKEY
+    VK_F3, IDM_EXIT, VIRTKEY
+    VK_F1, IDM_HELP, VIRTKEY }
+
+MyDB DIALOG 18, 18, 142, 92
+CAPTION "A Countdown Timer"
+STYLE DS_MODALFRAME | WS_POPUP | WS_VSCROLL | WS_CAPTION | WS_SYSMENU
+{
+    PUSHBUTTON "Start", IDD_START, 10, 60, 30, 14, WS_CHILD | WS_VISIBLE | WS_TABSTOP
+    PUSHBUTTON "Cancel", IDCANCEL, 60, 60, 30, 14,WS_CHILD | WS_VISIBLE | WS_TABSTOP
+    AUTOCHECKBOX "Show Countdown", IDD_CB1, 1, 20, 70, 10
+    AUTOCHECKBOX "Beep At End", IDD_CB2, 1, 30, 50, 10
+    AUTORADIOBUTTON "Minimize", IDD_RB1, 80, 20, 50, 10
+    AUTORADIOBUTTON "Maximize", IDD_RB2, 80, 30, 50, 10
+    AUTORADIOBUTTON "As-Is", IDD_RB3, 80, 40, 50, 10
+}

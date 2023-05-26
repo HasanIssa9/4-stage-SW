@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1678471795 source:c:\users\smart way\desktop\new folder (2)\prog\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1677784542 c:\users\smart way\desktop\new folder (2)\prog\header.h
+
+1677783199 source:c:\users\smart way\desktop\new folder (2)\prog\resource.rc
+	<windows.h>
+	"header.h"
+
+1678472147 source:c:\users\smart way\desktop\yussra\list box\prog\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1677784542 c:\users\smart way\desktop\yussra\list box\prog\header.h
+
+1677783199 source:c:\users\smart way\desktop\yussra\list box\prog\resource.rc
+	<windows.h>
+	"header.h"
+

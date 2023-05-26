@@ -1,0 +1,25 @@
+# ninja log v5
+1	4444	6920472239198252	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+4449	4621	6920472240943579	first_window.exe	4ff5f840dc841d0e
+9	3546	6930839267140617	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+3547	3918	6930839270830740	first_window.exe	4ff5f840dc841d0e
+8	3617	6930840384853550	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+3618	3741	6930840386060343	first_window.exe	4ff5f840dc841d0e
+5	1977	6930841502308556	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+1977	2157	6930841504043896	first_window.exe	4ff5f840dc841d0e
+4	1993	6930842176378836	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+1994	2142	6930842177815001	first_window.exe	4ff5f840dc841d0e
+2	2437	6930843056306280	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+2437	2610	6930843057951870	first_window.exe	4ff5f840dc841d0e
+6	1953	6930843270057740	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+1954	2140	6930843271872882	first_window.exe	4ff5f840dc841d0e
+4	1967	6930843671983036	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+1968	2109	6930843673329435	first_window.exe	4ff5f840dc841d0e
+12	7987	6930844582031897	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+7988	8355	6930844585672163	first_window.exe	4ff5f840dc841d0e
+10	4762	6930845039597152	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+4762	5363	6930845045528379	first_window.exe	4ff5f840dc841d0e
+5	2471	6930845921939025	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+2472	2594	6930845923125872	first_window.exe	4ff5f840dc841d0e
+6	2019	6930846575009062	CMakeFiles/first_window.dir/main.cpp.obj	f4a5ee84be91d013
+2020	2160	6930846576295586	first_window.exe	4ff5f840dc841d0e

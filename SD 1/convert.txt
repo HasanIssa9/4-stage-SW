@@ -1,0 +1,39 @@
+Public Class Form1
+    Public letters() As String = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"}
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        ListBox1.Items.Clear()
+        Dim s As String
+        Dim res As String
+        s = TextBox1.Text
+        For i = 1 To s.Length
+            For j = 0 To 25
+                If Mid(s, i, 1) = letters(j) Then
+                    res = res & j & " "
+                    ListBox1.Items.Add(Mid(s, i, 1) & "...." & j)
+                End If
+            Next j
+        Next i
+        TextBox2.Text = res
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        End
+
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        ListBox1.Items.Clear()
+        Dim s As String
+        Dim res As String
+        s = TextBox1.Text
+        For i = 1 To s.Length
+            For j = 0 To 25
+                If Mid(s, i, 1) = j Then
+                    res = res & letters(j) & " "
+                    ListBox1.Items.Add(Mid(s, i, 1) & "...." & letters(j))
+                End If
+            Next j
+        Next i
+        TextBox2.Text = res
+    End Sub
+End Class

@@ -1,0 +1,3 @@
+C:/Users/Cloud/Desktop/WP/single_and_double_click/cmake-build-debug/CMakeFiles/single_and_double_click.dir
+C:/Users/Cloud/Desktop/WP/single_and_double_click/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cloud/Desktop/WP/single_and_double_click/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Cloud/Desktop/WP/paint/cmake-build-debug/CMakeFiles/paint.dir
+C:/Users/Cloud/Desktop/WP/paint/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cloud/Desktop/WP/paint/cmake-build-debug/CMakeFiles/rebuild_cache.dir

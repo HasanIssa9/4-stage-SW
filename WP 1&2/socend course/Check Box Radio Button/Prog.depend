@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1678048809 source:c:\users\smart way\desktop\new folder (2)\prog\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1678047837 c:\users\smart way\desktop\new folder (2)\prog\header.h
+
+1678047162 source:c:\users\smart way\desktop\new folder (2)\prog\resource.rc
+	<windows.h>
+	"header.h"
+
+1683226831 source:c:\users\cloud\desktop\check boxes\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1680874284 c:\users\cloud\desktop\check boxes\header.h
+
+1683226831 source:c:\users\cloud\desktop\check boxes\resource.rc
+	<windows.h>
+	"header.h"
+
+1683226831 source:c:\users\cloud\desktop\socend course\check box radio button\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1680874284 c:\users\cloud\desktop\socend course\check box radio button\header.h
+
+1683226831 source:c:\users\cloud\desktop\socend course\check box radio button\resource.rc
+	<windows.h>
+	"header.h"
+

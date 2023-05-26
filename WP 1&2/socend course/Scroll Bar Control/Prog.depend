@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1681313391 source:c:\users\smart way\desktop\new folder (2)\prog\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1681310671 c:\users\smart way\desktop\new folder (2)\prog\header.h
+
+1681313050 source:c:\users\smart way\desktop\new folder (2)\prog\resource.rc
+	<windows.h>
+	"header.h"
+
+1683226535 source:c:\users\cloud\desktop\scroll bar control\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1681310671 c:\users\cloud\desktop\scroll bar control\header.h
+

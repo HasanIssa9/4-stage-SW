@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683202279 source:c:\users\cloud\desktop\socend course\modeless\main.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	"header.h"
+
+1679734713 c:\users\cloud\desktop\socend course\modeless\header.h
+
+1683226327 source:c:\users\cloud\desktop\socend course\modeless\resource.rc
+	<windows.h>
+	"header.h"
+

@@ -1,0 +1,11 @@
+# ninja log v5
+1	1588	6920478245647886	CMakeFiles/single_and_double_click.dir/main.cpp.obj	8bd8178f993c719e
+1592	1720	6920478246918079	single_and_double_click.exe	64901092f2da8eef
+5	2273	6920480407800596	CMakeFiles/single_and_double_click.dir/main.cpp.obj	8bd8178f993c719e
+2274	2415	6920480409186880	single_and_double_click.exe	64901092f2da8eef
+8	3088	6920484734047473	CMakeFiles/single_and_double_click.dir/main.cpp.obj	8bd8178f993c719e
+3089	3283	6920484735942405	single_and_double_click.exe	64901092f2da8eef
+6	2846	6920485187165743	CMakeFiles/single_and_double_click.dir/main.cpp.obj	8bd8178f993c719e
+2846	3058	6920485188671741	single_and_double_click.exe	64901092f2da8eef
+5	2526	6923717746611439	CMakeFiles/single_and_double_click.dir/main.cpp.obj	8bd8178f993c719e
+2527	2668	6923717747967824	single_and_double_click.exe	64901092f2da8eef

@@ -1,0 +1,40 @@
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\Image Processing.vbproj.GenerateResource.Cache
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form2.resources
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form2.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\Image Processing.vbproj.GenerateResource.Cache
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form3.resources
+D:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+D:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+D:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form3.resources
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form2.resources
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form3.resources
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+C:\Users\lenovo\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\Image Processing.vbproj.GenerateResource.Cache
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form4.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form4.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form5.resources
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form5.resources

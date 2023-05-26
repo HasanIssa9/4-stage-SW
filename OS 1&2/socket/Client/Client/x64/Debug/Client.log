@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Cloud\Desktop\OS\socket\Client\Client\Source.cpp(51,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cloud\Desktop\OS\socket\Client\Client\Source.cpp(13,37): warning C4101: 'client_addr': unreferenced local variable
+C:\Users\Cloud\Desktop\OS\socket\Client\Client\Source.cpp(16,9): warning C4101: 'client_addr_len': unreferenced local variable
+  Client.vcxproj -> C:\Users\Cloud\Desktop\OS\socket\Client\x64\Debug\Client.exe

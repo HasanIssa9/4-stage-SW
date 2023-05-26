@@ -1,0 +1,9 @@
+# ninja log v5
+0	1208	6912716316038238	CMakeFiles/message_box.dir/main.cpp.obj	98a3d81f6e8b70e8
+1210	1387	6912716317793533	message_box.exe	f6282ec50c4f417
+5	4571	6912716484039097	CMakeFiles/message_box.dir/main.cpp.obj	98a3d81f6e8b70e8
+4573	5279	6912716491997789	message_box.exe	f6282ec50c4f417
+5	1895	6923714280399381	CMakeFiles/message_box.dir/main.cpp.obj	98a3d81f6e8b70e8
+1896	2109	6923714282483804	message_box.exe	f6282ec50c4f417
+6	2193	6923715990781668	CMakeFiles/message_box.dir/main.cpp.obj	98a3d81f6e8b70e8
+2193	2324	6923715992048272	message_box.exe	f6282ec50c4f417

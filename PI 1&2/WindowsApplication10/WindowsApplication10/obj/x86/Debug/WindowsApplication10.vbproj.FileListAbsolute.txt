@@ -1,0 +1,36 @@
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+c:\users\lab10\documents\visual studio 2010\Projects\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+C:\Users\lab10\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+C:\Users\Cloud\Desktop\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+F:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.exe
+F:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.xml
+F:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.pdb
+F:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Form1.resources
+F:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.Resources.resources
+F:\PI\WindowsApplication10\WindowsApplication10\obj\x86\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+F:\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+F:\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+F:\PI\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
